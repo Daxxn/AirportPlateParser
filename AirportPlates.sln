@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirportPlates", "AirportPlates\AirportPlates.csproj", "{5C6910D4-0282-48CE-97A6-2FECE7CBB2E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVMLibraryFW", "..\..\..\Libraries\MVVMLibraryFW\MVVMLibraryFW\MVVMLibraryFW.csproj", "{145D367E-BC05-4A67-8B1F-60BF12663850}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonReaderLibraryFW", "..\..\..\Libraries\JsonReaderLibraryFW\JsonReaderLibraryFW\JsonReaderLibraryFW.csproj", "{97EB8DB5-5952-4078-961E-2E4FA2317B05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Release1|Any CPU = Release1|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C6910D4-0282-48CE-97A6-2FECE7CBB2E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C6910D4-0282-48CE-97A6-2FECE7CBB2E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C6910D4-0282-48CE-97A6-2FECE7CBB2E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C6910D4-0282-48CE-97A6-2FECE7CBB2E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C6910D4-0282-48CE-97A6-2FECE7CBB2E3}.Release1|Any CPU.ActiveCfg = Release|Any CPU
+		{5C6910D4-0282-48CE-97A6-2FECE7CBB2E3}.Release1|Any CPU.Build.0 = Release|Any CPU
+		{145D367E-BC05-4A67-8B1F-60BF12663850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{145D367E-BC05-4A67-8B1F-60BF12663850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{145D367E-BC05-4A67-8B1F-60BF12663850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{145D367E-BC05-4A67-8B1F-60BF12663850}.Release|Any CPU.Build.0 = Release|Any CPU
+		{145D367E-BC05-4A67-8B1F-60BF12663850}.Release1|Any CPU.ActiveCfg = Release|Any CPU
+		{145D367E-BC05-4A67-8B1F-60BF12663850}.Release1|Any CPU.Build.0 = Release|Any CPU
+		{97EB8DB5-5952-4078-961E-2E4FA2317B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97EB8DB5-5952-4078-961E-2E4FA2317B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97EB8DB5-5952-4078-961E-2E4FA2317B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97EB8DB5-5952-4078-961E-2E4FA2317B05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97EB8DB5-5952-4078-961E-2E4FA2317B05}.Release1|Any CPU.ActiveCfg = Release|Any CPU
+		{97EB8DB5-5952-4078-961E-2E4FA2317B05}.Release1|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {407B682B-0186-4FF1-8091-E1379128D043}
+	EndGlobalSection
+EndGlobal
