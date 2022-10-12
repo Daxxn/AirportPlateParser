@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # AirportPlateConverter
-Converts Airport approach and other PDF plates to PNG images for WPF display.
-=======
-# AirportPlateParser
->>>>>>> e152a2cf1eeb53bfc5c5d56c65340e3c8b02677d
+Organizes airport approach plates and converts the PDF file to a PNG image for WPF display.
+
+This is a companion to the [Flight Planner App.](https://github.com/Daxxn/FlightPlanner)
